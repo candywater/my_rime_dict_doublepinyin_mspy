@@ -1,3 +1,9 @@
+
+main files
+double_pinyin_mspy.schema.yaml
+double_pinyin_mspy.custom.yaml
+double_pinyin_mspy.dict.yaml
+
 special thanks to
 https://github.com/studyzy/imewlconverter
 https://github.com/gkovacs/rime-japanese
