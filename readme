@@ -4,6 +4,10 @@ double_pinyin_mspy.schema.yaml
 double_pinyin_mspy.custom.yaml
 double_pinyin_mspy.dict.yaml
 
+document
+https://github.com/rime-aca/dictionaries
+https://gist.github.com/lotem/5443073
+
 special thanks to
 https://github.com/studyzy/imewlconverter
 https://github.com/gkovacs/rime-japanese
