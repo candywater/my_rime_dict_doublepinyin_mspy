@@ -1,0 +1,9 @@
+# encoding: utf-8
+
+patch:
+  "menu/page_size": 7
+  translator/enable_user_dict: true
+  translator/dictionary: double_pinyin_mspy
+  # luna_pinyin_simp.custom.yaml
+  
+  
