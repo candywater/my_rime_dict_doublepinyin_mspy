@@ -20,7 +20,7 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 AA制	a a zhi	100
-ATM機	a t m ji	100
+ATM機	atm ji	100
 Android	android	100
 english english 100
 A片	a pian	100
@@ -33,7 +33,7 @@ B股	b gu	100
 B超	b chao	100
 C盤	c pan	100
 C語言	c yu yan	100
-DNA	d n a	100
+DNA	dn a	100
 DVD	d v d	100
 D盤	d pan	100
 E盤	e pan	100
@@ -102,3 +102,5 @@ iPod	i pod	100
 智能ABC	zhi neng a b c	100
 阿Q	a q	100
 阿Q正傳	a q zheng zhuan	100
+QQ	qq
+Baidu	baidu

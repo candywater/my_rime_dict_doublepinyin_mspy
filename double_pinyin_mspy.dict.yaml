@@ -25,10 +25,24 @@ import_tables:
   - qq.net
   - luna_pinyin.cn_en
   - luna_pinyin.net
+  - luna_pinyin.sougou
+  - luna_pinyin.chat
+  - luna_pinyin.basis
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.practical
 ...
 
 的	d
 了	l
+喔喔喔	wowow
+哦哦哦	ooo
+哈哈哈哈哈	hhhhh
+哈哈哈哈	hhhh
+哈哈哈	hhh
+哈哈	hh
+丝滑	si hua
+生煎	sheng jian
 星期一	weekday
 星期二	weekday
 星期三	weekday
